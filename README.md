@@ -37,7 +37,6 @@ This project is a PDF Question-Answering (Q&A) system that allows users to uploa
 
     ```plaintext
     OPENAI_API_KEY=your-openai-api-key
-    SLACK_WEBHOOK_URL=your-slack-webhook-url
     ```
 
 ## Usage
